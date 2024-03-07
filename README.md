@@ -5,10 +5,9 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-- Computação:  
-- Pedagogia:  
+- Computação: José Henrique Luckmann  
 
-Assunto:  
+Assunto: Realidade Aumentada  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
