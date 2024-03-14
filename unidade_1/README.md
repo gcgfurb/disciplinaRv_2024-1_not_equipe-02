@@ -4,7 +4,6 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
-Acadêmico: José Henrique Luckmann
 Nota: 10,0  
 
 ### Trabalho Correlato 1
